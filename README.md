@@ -9,10 +9,10 @@ Desenvolver um programa em linguagem C que implemente um sistema básico de cada
 - Editar informações de um aluno  
 - Apagar registro de um aluno  
 
-## Instruções
+## Instruções:
 
-- O programa utiliza estruturas (`struct`) para armazenar os dados dos alunos.
-- O usuário interage com um menu de opções, escolhendo a operação desejada.
-- Os dados dos alunos são mantidos em um array de structs, manipulados dinamicamente durante a execução.
-- Cada operação apresenta mensagens claras de sucesso ou erro conforme o resultado da ação.
-- As informações dos alunos são armazenadas em um arquivo de texto, garantindo a persistência dos dados mesmo após o programa ser encerrado.
+- O programa deve utilizar estruturas (structs) para armazenar os dados dos alunos.
+- Deve haver um menu interativo para que o usuário escolha a operação desejada.
+- Os dados dos alunos devem ser armazenados em um array de structs e manipulados dinamicamente.
+- Para cada operação, o programa deve exibir mensagens indicando o sucesso ou erro das ações realizadas.
+- Os dados devem ser armazenados em um arquivo de texto para persistência de informações.
